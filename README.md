@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maciej!
 - 👀 I’m interested in powerlifting, travelling and learning.
 - 🌱 I’m currently learning JavaScript :)
-- 💞️ I’m looking to collaborate on bigger website project. 
+- 💞️ I’m looking to gain experience (by internship or collaboratin on bigger project). 
 - 📫 How to reach me? Here is my e-mail: maciejpawlica6@gmail.com
 
 <!---
